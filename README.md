@@ -1,4 +1,4 @@
-# 2022 CUAI Winter Conference / 2023 교원그룹 AI 챌린지 <예선>
+# 2022 CUAI Winter Conference / 2023 교원그룹 AI 챌린지
 
 
 ## 👪 팀원
